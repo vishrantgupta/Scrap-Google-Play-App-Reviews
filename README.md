@@ -1,16 +1,16 @@
 ## This script scraps all the reviews from list of applications
 
-Step 1:
+__Step 1:__
 Install `NodeJs` with `NPM`, details: https://nodejs.org/en/download/ 
 
-Step 2:
+__Step 2:__
 Install `google-play-scraper`
 
 ```
 npm install google-play-scraper
 ```
 
-Step 3:
+__Step 3:__
 Create a file named `app.txt`. This file will contain all the applications for that you want to extract the reviews
 
 Sample contain:
@@ -20,7 +20,7 @@ com.amazon.mShop.android.shopping
 com.android.chrome
 ```
 
-Step 4:
+__Step 4:__
 Execute following command:
 
 ```
