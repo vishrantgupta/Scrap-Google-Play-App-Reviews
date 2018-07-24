@@ -4,7 +4,7 @@ __Step 1:__
 Install `NodeJs` with `NPM`, details: https://nodejs.org/en/download/ 
 
 __Step 2:__
-This project is based upon (this repository)[https://github.com/facundoolano/google-play-scraper], you need to install `google-play-scraper`
+This project is based upon [this repository](https://github.com/facundoolano/google-play-scraper), you need to install `google-play-scraper`
 
 ```
 npm install google-play-scraper
