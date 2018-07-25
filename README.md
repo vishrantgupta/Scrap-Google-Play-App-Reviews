@@ -30,3 +30,5 @@ node google_play_all_reviews_scraper.js
 The above code will copy all the reviews and details of the application in `reviews/` and `details/` folder respectively. I have not tested this script for applications with millions of comments.
 
 Note: `reviews/` and `details/` directories will not be created if does not exists, make sure you have the directory in the root of this project.
+
+Cheers! Enjoy programming :)
