@@ -4,7 +4,7 @@ __Step 1:__
 Install `NodeJs` with `NPM`, details: https://nodejs.org/en/download/ 
 
 __Step 2:__
-This project is based upon [this repository](https://github.com/facundoolano/google-play-scraper), you need to install `google-play-scraper`
+This project is based upon [this repository](https://github.com/facundoolano/google-play-scraper), you need to install `google-play-scraper`. This script overcomes the limitation of `google-play-scraper` which scraps reviews page by page (i.e., maximum of 40 reviews)
 
 ```
 npm install google-play-scraper
